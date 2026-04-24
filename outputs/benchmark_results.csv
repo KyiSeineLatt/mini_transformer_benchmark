@@ -1,0 +1,5 @@
+Model,Positional Encoding,Heads,Layers,Val Acc,Test Acc,Train Time (s),Parameter Count
+A,Yes,1,1,0.915,0.883,15.05590749,38017
+B,Yes,4,1,0.979,0.973,15.27820253,38017
+C,No,4,1,0.814,0.823,15.4861908,38017
+D,Yes,4,2,0.987,0.982,23.20484352,71489
