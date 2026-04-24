@@ -23,5 +23,3 @@ Includes:
 - Feed-forward Network
 - Transformer Encoder
 
-## Restrictions
-No built-in Transformer libraries are used.
